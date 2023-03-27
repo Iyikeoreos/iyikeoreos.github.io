@@ -1,0 +1,11 @@
+body {background-color:gainsboro;}
+h1 {color:darkcyan;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+article{
+    background-color: ghostwhite;
+    padding: 4cm;
+    margin: 2cm;
+    width:fit-content;
+    float: right;
+}
